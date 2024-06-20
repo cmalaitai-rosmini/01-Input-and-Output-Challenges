@@ -41,13 +41,15 @@ Now edit program 1 so that the information entered is displayed differently as s
 
 #### Input:
 ```
-David
-Tennant
+Lister
+39
+Red Dwarf
 ```
 
 #### Output:
 ```
-Tennant David
+Lister 39
+Likes watching Red Dwarf
 ```
 
 ### 04. Postcode Formatter
